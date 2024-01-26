@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header_loged" transform="translate(-1035, -40)" fill="#2C2C2C" fill-rule="nonzero">
+            <g id="Group" transform="translate(1035, 40)">
+                <path d="M11,0 C4.9247,0 0,4.9247 0,11 C0,17.0753 4.9247,22 11,22 C17.0753,22 22,17.0753 22,11 C22,4.9247 17.0753,0 11,0 Z M11.00891,5.5 C12.83161,5.5 14.30891,6.9773 14.30891,8.8 C14.30891,10.6227 12.83161,12.1 11.00891,12.1 C9.18621,12.1 7.708866,10.6227 7.708866,8.8 C7.708866,6.9773 9.18621,5.5 11.00891,5.5 Z M11,20.35 C8.569,20.35 6.347011,19.415 4.686011,17.886 C5.170011,16.368 6.424044,14.92689 9.119,14.92689 L12.881,14.92689 C15.565,14.92689 16.819,16.379 17.314,17.886 C15.653,19.415 13.431,20.35 11,20.35 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

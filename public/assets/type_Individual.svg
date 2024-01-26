@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="80px" viewBox="0 0 64 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>type_Individual</title>
+    <g id="card_B" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card_B-1.0---create-step-1" transform="translate(-821, -392)" fill="#202020" fill-rule="nonzero">
+            <g id="Card-2" transform="translate(427, 144)">
+                <g id="Group-5" transform="translate(53, 213)">
+                    <g id="Group-4" transform="translate(264, 0)">
+                        <g id="type_Individual" transform="translate(77.8974, 35.5122)">
+                            <path d="M14.5783701,16.5879332 C14.5783701,7.43968806 22.0315968,0 31.1963651,0 C40.3612581,0 47.8144848,7.43968806 47.8144848,16.5879332 C47.8144848,25.7361784 40.3612581,33.1758665 31.1963651,33.1758665 C22.0315968,33.1758665 14.5783701,25.7361784 14.5783701,16.5879332 Z M39.4680342,41.4698331 L22.8499145,41.4698331 C5.98252308,41.4698331 0,53.7988145 0,64.357034 C0,73.799715 5.03134345,78.7926829 14.553526,78.7926829 L47.764215,78.7926829 C57.2863975,78.7926829 62.3179487,73.799715 62.3179487,64.357034 C62.3179487,53.7988145 56.3354256,41.4698331 39.4680342,41.4698331 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
